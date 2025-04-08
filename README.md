@@ -23,4 +23,4 @@ EZPassMD is a project designed to streamline the management and tracking of expe
 - Website: [EZPassMD](https://www-ezpassmd.com)
 
 **Author Bio**:  
-With over 10 years of experience in web development, Your A/C Name has mastered JavaScript, React, and other front-end technologies. A problem-solver at heart, they thrive on tackling challenges and creating intuitive user interfaces. Their mission is to help others manage their finances efficiently and effectively.
+With over 10 years of experience in web development, Catherine has mastered JavaScript, React, and other front-end technologies. A problem-solver at heart, they thrive on tackling challenges and creating intuitive user interfaces. Their mission is to help others manage their finances efficiently and effectively.
